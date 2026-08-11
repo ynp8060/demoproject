@@ -1,3 +1,4 @@
 # demoproject
-this is my first github repository
-author yatri patel
+this is my first github repository.
+<br>
+Author - yatri patel
